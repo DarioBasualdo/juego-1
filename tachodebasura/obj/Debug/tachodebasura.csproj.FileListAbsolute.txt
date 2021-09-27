@@ -1,0 +1,13 @@
+D:\juego 1\tachodebasura\tachodebasura\bin\Debug\tachodebasura.exe.config
+D:\juego 1\tachodebasura\tachodebasura\bin\Debug\tachodebasura.exe
+D:\juego 1\tachodebasura\tachodebasura\bin\Debug\tachodebasura.pdb
+D:\juego 1\tachodebasura\tachodebasura\obj\Debug\tachodebasura.csproj.AssemblyReference.cache
+D:\juego 1\tachodebasura\tachodebasura\obj\Debug\tachodebasura.inicio.resources
+D:\juego 1\tachodebasura\tachodebasura\obj\Debug\tachodebasura.jugar.resources
+D:\juego 1\tachodebasura\tachodebasura\obj\Debug\tachodebasura.Properties.Resources.resources
+D:\juego 1\tachodebasura\tachodebasura\obj\Debug\tachodebasura.csproj.GenerateResource.cache
+D:\juego 1\tachodebasura\tachodebasura\obj\Debug\tachodebasura.csproj.CoreCompileInputs.cache
+D:\juego 1\tachodebasura\tachodebasura\obj\Debug\tachodebasura.exe
+D:\juego 1\tachodebasura\tachodebasura\obj\Debug\tachodebasura.pdb
+D:\juego 1\tachodebasura\tachodebasura\obj\Debug\tachodebasura.ganaste.resources
+D:\juego 1\tachodebasura\tachodebasura\obj\Debug\tachodebasura.perdiste.resources
